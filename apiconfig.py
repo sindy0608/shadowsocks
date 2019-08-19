@@ -10,8 +10,8 @@ AUTOEXEC = 0
 MU_SUFFIX = "wns.windows.com"
 MU_REGEX = "HK2SCH%5m%id.%suffix"
 
-SERVER_PUB_ADDR = "https://zhaoj.in"  # mujson_mgr need this to generate ssr link
-API_INTERFACE = "modwebapi"  # glzjinmod, modwebapi
+SERVER_PUB_ADDR = "https://modwebapi"  # mujson_mgr need this to generate ssr link
+API_INTERFACE = "api://modwebapi"  # glzjinmod, modwebapi
 
 WEBAPI_URL = "https://zhaoj.in"
 WEBAPI_TOKEN = "glzjin"
